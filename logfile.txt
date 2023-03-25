@@ -1,0 +1,28 @@
+Logfile
+child with id 17687 was terminated with status 0 on Fri Nov  4 23:37:16 2022
+
+child with id 17734 was terminated with status 0 on Fri Nov  4 23:37:54 2022
+
+child with id 17736 was terminated with status 0 on Fri Nov  4 23:37:54 2022
+
+child with id 17737 was terminated with status 0 on Fri Nov  4 23:37:54 2022
+
+Logfile
+child with id 17935 was terminated with status 0 on Fri Nov  4 23:44:51 2022
+
+child with id 17943 was terminated with status 0 on Fri Nov  4 23:45:10 2022
+
+child with id 18012 was terminated with status 0 on Fri Nov  4 23:46:40 2022
+
+child with id 18013 was terminated with status 0 on Fri Nov  4 23:46:40 2022
+
+child with id 18045 was terminated with status 0 on Fri Nov  4 23:47:16 2022
+
+child with id 18046 was terminated with status 0 on Fri Nov  4 23:48:02 2022
+
+child with id 18048 was terminated with status 0 on Fri Nov  4 23:48:13 2022
+
+child with id 18049 was terminated with status 0 on Fri Nov  4 23:48:23 2022
+
+child with id 18050 was terminated with status 0 on Fri Nov  4 23:48:30 2022
+

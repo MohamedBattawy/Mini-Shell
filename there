@@ -1,0 +1,19 @@
+total 372
+drwxrwxr-x  2 battawy battawy  4096 نوف  4 23:50 .
+drwxr-x--- 25 battawy battawy  4096 نوف  4 22:17 ..
+-rw-rw-r--  1 battawy battawy  7991 نوف  4 23:36 command.cc
+-rw-rw-r--  1 battawy battawy   750 نوف  4 23:36 command.h
+-rw-rw-r--  1 battawy battawy 59584 نوف  4 23:36 command.o
+-rwxrwxr-x  1 battawy battawy   123 نوف  4 23:49 in
+-rw-rw-r--  1 battawy battawy 46065 نوف  4 23:36 lex.yy.c
+-rw-rw-r--  1 battawy battawy 44952 نوف  4 23:36 lex.yy.o
+-rw-rw-r--  1 battawy battawy  1030 نوف  4 23:48 logfile.txt
+-rw-rw-r--  1 battawy battawy   338 نوف  4 23:36 Makefile
+-rwxrwxr-x  1 battawy battawy   123 نوف  4 23:45 out
+-rwxrwxr-x  1 battawy battawy 90632 نوف  4 23:36 shell
+-rw-rw-r--  1 battawy battawy   812 نوف  4 23:36 shell.l
+-rw-rw-r--  1 battawy battawy  2860 نوف  4 23:36 shell.y
+-rwxrwxr-x  1 battawy battawy     0 نوف  4 23:50 there
+-rw-rw-r--  1 battawy battawy 48022 نوف  4 23:36 y.tab.c
+-rw-rw-r--  1 battawy battawy  3526 نوف  4 23:36 y.tab.h
+-rw-rw-r--  1 battawy battawy 29168 نوف  4 23:36 y.tab.o

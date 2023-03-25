@@ -1,0 +1,15 @@
+command.cc
+command.h
+command.o
+in
+lex.yy.c
+lex.yy.o
+logfile.txt
+Makefile
+out
+shell
+shell.l
+shell.y
+y.tab.c
+y.tab.h
+y.tab.o
